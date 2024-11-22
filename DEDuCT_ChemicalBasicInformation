@@ -1,0 +1,678 @@
+Primary identifier,estrogen present,CAS Number,PubChem identifier,Name,IUPAC_Name
+CAS:319-85-7,0,319-85-7,727,beta-Hexachlorocyclohexane,"1,2,3,4,5,6-hexachlorocyclohexane"
+CAS:3234-61-5,0,3234-61-5,,Thiodiazole copper,thiodiazole copper
+CAS:58-89-9,0,58-89-9,727,Lindane,"1,2,3,4,5,6-hexachlorocyclohexane"
+CID:10017512,0,145370-39-4,10017512,3'-Methoxy-4'-nitroflavone,2-(3-methoxy-4-nitrophenyl)chromen-4-one
+CID:10143739,0,57678-03-2,10143739,Perfluorodecylphosphate,"3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl dihydrogen phosphate"
+CID:10208,0,481-74-3,10208,Chrysophanic acid,"1,8-dihydroxy-3-methylanthracene-9,10-dione"
+CID:102196968,0,,102196968,Sai-Sen-Tong,"copper;5-[[(5-sulfido-1,3,4-thiadiazol-2-yl)amino]methylamino]-1,3,4-thiadiazole-2-thiolate"
+CID:102614,0,1428-67-7,102614,"2,3-Bis(4-hydroxyphenyl)-propionitrile","2,3-bis(4-hydroxyphenyl)propanenitrile"
+CID:102724,0,1943-97-1,102724,"5,7-Methanoindan","4,4'-Tricyclodecane-8,8-diyldiphenol"
+CID:10342051,0,66230-04-4,10342051,Esfenvalerate,[(S)-cyano-(3-phenoxyphenyl)methyl] (2S)-2-(4-chlorophenyl)-3-methylbutanoate
+CID:1046,0,98-96-4,1046,Pyrazinamide,pyrazine-2-carboxamide
+CID:104741,0,129453-61-8,104741,Fulvestrant,"(7R,8R,9S,13S,14S,17S)-13-methyl-7-[9-(4,4,5,5,5-pentafluoropentylsulfinyl)nonyl]-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol"
+CID:10491,0,507-63-1,10491,Perfluorooctyliodide,"1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-8-iodooctane"
+CID:104942,0,60044-26-0,104942,"3,3',4,4',5,5'-Hexabromobiphenyl","1,2,3-tribromo-5-(3,4,5-tribromophenyl)benzene"
+CID:105036,0,14962-28-8,105036,"4-Hydroxy-2',4',6'-trichlorobiphenyl","4-(2,4,6-trichlorophenyl)phenol"
+CID:105075,0,9004-66-4,105075,Irondextran,iron;sulfuric acid
+CID:10521,0,510-13-4,10521,Malachite Green carbinol base,bis[4-(dimethylamino)phenyl]-phenylmethanol
+CID:10618,0,519-98-2,10618,Noramidopyrine,"1,5-dimethyl-4-(methylamino)-2-phenylpyrazol-3-one"
+CID:10631,0,520-85-4,10631,Medroxy progesterone,"(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-17-hydroxy-6,10,13-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"
+CID:107698,0,103426-96-6,107698,"1,2,3,4,6,7-Hexachloronaphthalene","1,2,3,4,6,7-hexachloronaphthalene"
+CID:107862,0,66640-60-6,107862,"2,2',4',5,5'-pentachloro-3-(methylsulfonyl)biphenyl","2,5-dichloro-1-methylsulfonyl-3-(2,4,5-trichlorophenyl)benzene"
+CID:107904,0,980-21-2,107904,Dityrosine,2-amino-3-[3-[5-(2-amino-2-carboxyethyl)-2-hydroxyphenyl]-4-hydroxyphenyl]propanoic acid
+CID:107953,0,77102-82-0,107953,"3,3',4,4'-Tetrabromobiphenyl","1,2-dibromo-4-(3,4-dibromophenyl)benzene"
+CID:108023,0,67888-99-7,108023,"2,3',4,4'5,5'-Hexabromobiphenyl","1,2,3-tribromo-5-(2,4,5-tribromophenyl)benzene"
+CID:108132,0,66640-58-2,108132,"2,2',3,4,5'-pentachloro-3'-(methylsulfonyl)biphenyl","1,2,3-trichloro-4-(2,5-dichloro-3-methylsulfonylphenyl)benzene"
+CID:108178,0,66640-61-7,108178,"2,2',4',5,5'-Pentachloro-4-methylsulfonylbiphenyl","1,4-dichloro-2-methylsulfonyl-5-(2,4,5-trichlorophenyl)benzene"
+CID:108210,0,66640-59-3,108210,"4-Methylsulfonyl-2,2',3',4',5-pentachlorobiphenyl","1,2,3-trichloro-4-(2,5-dichloro-4-methylsulfonylphenyl)benzene"
+CID:10908094,0,,10908094,"1,2,3-tribromo-5-(2,4-dibromophenoxy)-4-methoxybenzene","1,2,3-tribromo-5-(2,4-dibromophenoxy)-4-methoxybenzene"
+CID:10943,0,541-73-1,10943,m-Dichloro benzene,"1,3-dichlorobenzene"
+CID:10985889,0,84852-53-9,10985889,Decabromodiphenyl ethane,"1,2,3,4,5-pentabromo-6-[2-(2,3,4,5,6-pentabromophenyl)ethyl]benzene"
+CID:10986,0,543-90-8,10986,Cadmium acetate,cadmium(2+);diacetate
+CID:11057755,0,211867-47-9,11057755,Flumorph,"(E)-3-(3,4-dimethoxyphenyl)-3-(4-fluorophenyl)-1-morpholin-4-ylprop-2-en-1-one"
+CID:110635,0,171596-29-5,110635,Tadalafil,"(6R,12aR)-6-(1,3-Benzodioxol-5-yl)-2-methyl-2,3,6,7,12,12a-hexahydropyrazinopyrido[3,4-b]indole-1,4-dione"
+CID:111326,0,7694-30-6,111326,"1,2-Diphenylcyclobutane, cis-","[(1S,2R)-2-phenylcyclobutyl]benzene"
+CID:11140605,0,87392-12-9,11140605,S-Metolachlor,2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide
+CID:11164,0,556-52-5,11164,Glycidol,oxiran-2-ylmethanol
+CID:11169,0,556-67-2,11169,Octamethyl cyclotetrasiloxane,"2,2,4,4,6,6,8,8-octamethyl-1,3,5,7,2,4,6,8-tetraoxatetrasilocane"
+CID:11192,0,557-34-6,11192,Zinc acetate,zinc;diacetate
+CID:11273,0,566-48-3,11273,Formestane,"(8R,9S,10R,13S,14S)-4-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione"
+CID:11313,0,573-58-0,11313,Congored,disodium;4-amino-3-[[4-[4-[(1-amino-4-sulfonatonaphthalen-2-yl)diazenyl]phenyl]phenyl]diazenyl]naphthalene-1-sulfonate
+CID:1140,0,108-88-3,1140,Methyl benzene,toluene
+CID:114896,0,109333-33-7,114896,"2-Bromo-3,7,8-trichlorodibenzo-p-dioxin","2-bromo-3,7,8-trichlorodibenzo-p-dioxin"
+CID:114900,0,118174-38-2,114900,"6-Methyl-1,3,8-trichlorodibenzofuran","1,3,8-trichloro-6-methyldibenzofuran"
+CID:115218,0,104086-18-2,115218,"3-Methylsulfonyl-2,2',3',4',5,5'-hexachlorobiphenyl","1,2,3,4-tetrachloro-5-(2,5-dichloro-3-methylsulfonylphenyl)benzene"
+CID:115224,0,111988-49-9,115224,Thiacloprid,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide"
+CID:11626560,0,877399-52-5,11626560,Crizotinib,"3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-ylpyrazol-4-yl)pyridin-2-amine"
+CID:117291,0,26040-51-7,117291,"Bis(2-ethylhexyl)2,3,4,5-tetrabromophthalate","bis(2-ethylhexyl) 3,4,5,6-tetrabromobenzene-1,2-dicarboxylate"
+CID:117666,0,25913-05-7,117666,4-Fluoro-4'-hydroxybenzophenone,(4-fluorophenyl)-(4-hydroxyphenyl)methanone
+CID:11790,0,604-59-1,11790,alpha-Naphthoflavone,2-phenylbenzo[h]chromen-4-one
+CID:11816,0,606-28-0,11816,Methyl2-benzoyl benzoate,methyl 2-benzoylbenzoate
+CID:118216,0,35109-60-5,118216,"1,3,5-Tribromo-2-(2,3-dibromopropoxy) benzene","1,3,5-tribromo-2-(2,3-dibromopropoxy)benzene"
+CID:11843,0,608-25-3,11843,"1,3-Benzenediol, 2-methyl-","2-methylbenzene-1,3-diol"
+CID:11855,0,608-93-5,11855,Pentachlorobenzene,"1,2,3,4,5-pentachlorobenzene"
+CID:119115,0,62938-14-1,119115,"1-Chloro-4-(2,2-dichloro-1-(4-chlorophenyl)ethenyl)-3-(methylsulfonyl) benzene","4-chloro-1-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]-2-methylsulfonylbenzene"
+CID:119354,0,116806-76-9,119354,"4-Methylsulfonyl-2,2',3,4',5',6-hexachlorobiphenyl","1,3,4-trichloro-5-methylsulfonyl-2-(2,4,5-trichlorophenyl)benzene"
+CID:119383,0,149949-90-6,119383,"3-Methylsulfonyl-2,2',3',4',5,6-hexachlorobiphenyl","1,2,4-trichloro-5-methylsulfonyl-3-(2,3,4-trichlorophenyl)benzene"
+CID:11954121,0,7425-79-8,11954121,"4,4-Bis(4-hydroxyphenyl)heptane",4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol
+CID:11954175,0,20071-09-4,11954175,"1,2-Diphenylcyclobutane, trans-","[(1R,2R)-2-phenylcyclobutyl]benzene"
+CID:119587,0,116807-52-4,119587,"3-Methylsulfonyl-2,2',4',5-tetrachlorobiphenyl","2,5-dichloro-1-(2,4-dichlorophenyl)-3-methylsulfonylbenzene"
+CID:11970143,0,,11970143,Lipopolysaccharide,"(2R,5R)-2-[(2R,5R)-2-[(2R,5R)-5-[(2R,3R,5R)-4-[(2R,3R,5R)-4-[(2R,5R)-4-[(2R,5R)-3-[(2R,5S)-3-[(2R,3S,5S)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-5-[(2R,5S)-4-[(3R,6S)-5-[(2R,5R)-4-[(2R,5R)-3,5-dihydroxy-6-methyloxan-2-yl]oxy-5-hydroxy-6-(hydroxymethyl)-3-[(2S,5R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,4-dihydroxy-6-methyloxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-[[(2S,5R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxy-6-[2-[(2S,3R,5S)-5-(1,2-dihydroxyethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-1-hydroxyethyl]-3-hydroxy-5-phosphonooxyoxan-2-yl]oxy-5-[[2-aminoethoxy(hydroxy)phosphoryl]oxy-hydroxyphosphoryl]oxy-6-(1,2-dihydroxyethyl)-3-hydroxyoxan-2-yl]oxy-2-carboxy-6-(1,2-dihydroxyethyl)-2-[[(3S,5S,6R)-5-(3-dodecanoyloxytetradecanoylamino)-6-[[(3S,4R,6S)-3-hydroxy-4-(3-hydroxytetradecanoyloxy)-5-pentadecyl-6-(phosphonomethyl)oxan-2-yl]methoxy]-3-phosphonooxy-4-(3-tetradecanoyloxytetradecanoyloxy)oxan-2-yl]methoxy]oxan-4-yl]oxy-2-carboxy-6-(1,2-dihydroxyethyl)-5-hydroxyoxan-4-yl]oxy-6-(1,2-dihydroxyethyl)-4,5-dihydroxyoxane-2-carboxylic acid"
+CID:11978695,0,80246-24-8,11978695,"2,3,4-tribromo-6-(2,4-dibromophenoxy)phenol","2,3,4-tribromo-6-(2,4-dibromophenoxy)phenol"
+CID:12111,0,620-92-8,12111,"4,4'-Bisphenol F",4-[(4-hydroxyphenyl)methyl]phenol
+CID:12251,0,625-45-6,12251,Methoxyacetic acid,2-methoxyacetic acid
+CID:122825,0,82799-44-8,122825,"2,4-Diethyl-9H-thioxanthen-9-one","2,4-diethylthioxanthen-9-one"
+CID:12309460,0,33213-65-9,12309460,Beta-Endosulfan,"(1R,2S,8R,9S)-1,9,10,11,12,12-Hexachloro-4,6-dioxa-5-thiatricyclododec-10-ene 5-oxide"
+CID:12310947,0,309-00-2,12310947,Aldrin,"(1R,2R,3R,6S,7S,8S)-1,8,9,10,11,11-Hexachlorotetracyclododeca-4,9-diene"
+CID:123351,0,14797-73-0,123351,Perchlorate,perchlorate
+CID:12433,0,631-64-1,12433,Dibromoacetic acid,"2,2-dibromoacetic acid"
+CID:12540,0,639-58-7,12540,Triphenyltin chloride,chloro(triphenyl)stannane
+CID:12688,0,683-18-1,12688,Dibutyldichlorotin,dibutyl(dichloro)stannane
+CID:12898,0,731-27-1,12898,Tolylfluanid,N-[dichloro(fluoro)methyl]sulfanyl-N-(dimethylsulfamoyl)-4-methylaniline
+CID:12961638,0,16423-68-0,12961638,Erythrosine,"disodium;2',4',5',7'-tetraiodo-3-oxospiro[2-benzofuran-1,9'-xanthene]-3',6'-diolate"
+CID:129904873,0,,129904873,Silver nanoparticle,"1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]imidazole;silver"
+CID:13089,0,789-02-6,13089,"o,p'-DDT","1-chloro-2-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene"
+CID:13263,0,834-12-8,13263,Ametryn,"4-N-ethyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine"
+CID:13387,0,872-50-4,13387,1-Methyl-2-pyrrolidinone,1-methylpyrrolidin-2-one
+CID:135,0,99-96-7,135,4-Hydroxybenzoic acid,4-hydroxybenzoic acid
+CID:13618,0,933-75-5,13618,"2,3,6-Trichlorophenol","2,3,6-trichlorophenol"
+CID:13636,0,935-95-5,13636,"2,3,5,6-Tetrachlorophenate","2,3,5,6-tetrachlorophenol"
+CID:13643667,0,99717-56-3,13643667,"2-Bromoallyl(2,4,6-tribromophenyl) ether","1,3,5-tribromo-2-(2-bromoprop-2-enoxy)benzene"
+CID:13700,0,67554-50-1,13700,Octylphenol,2-octylphenol
+CID:13769,0,968-93-4,13769,Testolactone,"(4aS,4bR,10aR,10bS,12aS)-10a,12a-dimethyl-4,4a,4b,5,6,10b,11,12-octahydro-3H-naphtho[2,1-f]chromene-2,8-dione"
+CID:13791,0,979-32-8,13791,Estradiol valerate,"[(8R,9S,13S,14S,17S)-3-hydroxy-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl] pentanoate"
+CID:13869,0,1005-93-2,13869,Trimethylol propane phosphate,"4-ethyl-2,6,7-trioxa-1$l^{5}-phosphabicyclo[2.2.2]octane 1-oxide"
+CID:14052,0,74-55-5,14052,Ethambutol,(2S)-2-[2-[[(2S)-1-hydroxybutan-2-yl]amino]ethylamino]butan-1-ol
+CID:14085,0,1073-67-2,14085,p-Chlorostyrene,1-chloro-4-ethenylbenzene
+CID:14327,0,1131-60-8,14327,4-Cyclohexylphenol,4-cyclohexylphenol
+CID:14347,0,1137-42-4,14347,4-Hydroxybenzophenone,(4-hydroxyphenyl)-phenylmethanone
+CID:14410,0,1163-19-5,14410,Decabromobiphenyl ether,"1,2,3,4,5-pentabromo-6-(2,3,4,5,6-pentabromophenoxy)benzene"
+CID:146570,0,128196-01-0,146570,Escitalopram,(1S)-1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-3H-2-benzofuran-5-carbonitrile
+CID:146640,0,116807-53-5,146640,"3-Methylsulfonyl-2,3',4',5-tetrachlorobiphenyl","2,5-dichloro-1-(3,4-dichlorophenyl)-3-methylsulfonylbenzene"
+CID:14825,0,1317-35-7,14825,Manganese oxide,hydroxy(oxo)manganese;manganese
+CID:1483,0,118-79-6,1483,"2,4,6-Tribromophenol","2,4,6-tribromophenol"
+CID:14855,0,1570-64-5,14855,4-Chloro-2-cresol,4-chloro-2-methylphenol
+CID:1486,0,94-75-7,1486,"2,4-Dichlorophenoxyacetic acid","2-(2,4-dichlorophenoxy)acetic acid"
+CID:14888,0,1327-53-3,14888,Arsenic trioxide,arsenic(3+);oxygen(2-)
+CID:1489,0,94-82-6,1489,"4-(2,4-Dichlorophenoxy)butyric acid","4-(2,4-dichlorophenoxy)butanoic acid"
+CID:14905,0,2039-85-2,14905,m-Chloro styrene,1-chloro-3-ethenylbenzene
+CID:14906,0,2039-87-4,14906,o-Chlorostyrene,1-chloro-2-ethenylbenzene
+CID:15032,0,1434-54-4,15032,Pregnenolone carbonitrile,"(3S,8S,9S,10R,13S,14S,16R,17S)-17-acetyl-3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-16-carbonitrile"
+CID:15096,0,1461-22-9,15096,Tributyl chlorostannane,tributyl(chloro)stannane
+CID:153962,0,149949-88-2,153962,"3-Methylsulfonyl-2,2',4',5,5',6-hexachlorobiphenyl","1,2,4-trichloro-5-methylsulfonyl-3-(2,4,5-trichlorophenyl)benzene"
+CID:15413,0,1634-04-4,15413,t-Butyl methyl ether,2-methoxy-2-methylpropane
+CID:15415,0,1634-78-2,15415,Malaoxon,diethyl 2-dimethoxyphosphorylsulfanylbutanedioate
+CID:15509894,0,189084-62-6,15509894,"2,3',4',6-Tetrabromodiphenyl ether","1,2-dibromo-4-(2,6-dibromophenoxy)benzene"
+CID:15531,0,1689-84-5,15531,Bromoxynil,"3,5-dibromo-4-hydroxybenzonitrile"
+CID:15625,0,1746-01-6,15625,Tetrachloro dibenzodioxin,"2,3,7,8-tetrachlorodibenzo-p-dioxin"
+CID:15724678,0,25637-99-4,15724678,Hexabromocyclododecane,"1,1,2,2,3,3-hexabromocyclododecane"
+CID:15730,0,1806-26-4,15730,4-Octylphenol,4-octylphenol
+CID:15757,0,1820-59-3,15757,"2,4,2',4'-Tetranitrobiphenyl","1-(2,4-dinitrophenyl)-2,4-dinitrobenzene"
+CID:15768599,0,21707-93-7,15768599,Monophenyltin,phenyltin(3+)
+CID:15787,0,1836-75-5,15787,Nitrofen,"2,4-dichloro-1-(4-nitrophenoxy)benzene"
+CID:15805,0,1847-63-8,15805,Nafoxidine hydrochloride,"1-[2-[4-(6-methoxy-2-phenyl-3,4-dihydronaphthalen-1-yl)phenoxy]ethyl]pyrrolidine;hydrochloride"
+CID:158403,0,83846-86-0,158403,4-Isopropyl-9H-thioxanthen-9-one,4-propan-2-ylthioxanthen-9-one
+CID:158629,0,59536-65-1,158629,Firemaster BP-6,"1,2,3-tribromo-4-(3,4,5-tribromophenyl)benzene"
+CID:15938,0,1910-42-5,15938,Paraquat dichloride,1-methyl-4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium;dichloride
+CID:15939,0,4685-14-7,15939,Paraquat,1-methyl-4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium
+CID:16043,0,1948-33-0,16043,"1,4-Benzenediol, 2-(1,1-dimethylethyl)-","2-tert-butylbenzene-1,4-diol"
+CID:16129698,0,89662-30-6,16129698,Detirelix,"(2S)-N-[(2R)-1-Amino-1-oxo-2-propanyl]-1-[(2S,5S,8R,11S,14S,17R,20R,23R)-8-(4-{[bis(ethylamino)methylene]amino}butyl)-2-(3-carbamimidamidopropyl)-20-(4-chlorobenzyl)-11-(4-hydroxybenzyl)-14-(hydroxyme thyl)-17-(1H-indol-3-ylmethyl)-5-isobutyl-23-(2-naphthylmethyl)-4,7,10,13,16,19,22,25-octaoxo-3,6,9,12,15,18,21,24-octaazahexacosan-1-oyl]-2-pyrrolidinecarboxamide"
+CID:1615,0,42542-10-9,1615,"3,4-Methylenedioxy methamphetamine","1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine"
+CID:16248,0,2032-65-7,16248,Methiocarb,"(3,5-dimethyl-4-methylsulfanylphenyl) N-methylcarbamate"
+CID:1639,0,61-82-5,1639,"2-Amino-1,3,4-triazole","1H-1,2,4-triazol-5-amine"
+CID:16421,0,2104-64-5,16421,o-Ethyl-o-(4-nitrophenyl)phenylphosphonothioate,ethoxy-(4-nitrophenoxy)-phenyl-sulfanylidene-$l^{5}-phosphane
+CID:164754,0,917-13-5,164754,Enniatin B,"(3S,6R,9S,12R,15S,18R)-4,10,16-trimethyl-3,6,9,12,15,18-hexa(propan-2-yl)-1,7,13-trioxa-4,10,16-triazacyclooctadecane-2,5,8,11,14,17-hexone"
+CID:16553,0,2163-68-0,16553,2-Hydroxyatrazine,"2-(ethylamino)-6-(propan-2-ylamino)-1H-1,3,5-triazin-4-one"
+CID:16653,0,2212-67-1,16653,Molinate,S-ethyl azepane-1-carbothioate
+CID:16682746,0,56-35-9,16682746,Bis(tributyltin) oxide,tributyl(tributylstannyloxy)stannane
+CID:16682804,0,900-95-8,16682804,Phentin acetate,triphenylstannyl acetate
+CID:16683004,0,13356-08-6,16683004,Fenbutatin oxide,tris(2-methyl-2-phenylpropyl)-tris(2-methyl-2-phenylpropyl)stannyloxystannane
+CID:16684434,0,54-64-8,16684434,Thimerosal,sodium;(2-carboxylatophenyl)sulfanyl-ethylmercury
+CID:1674,0,56-49-5,1674,Methyl cholanthrene,"3-methyl-1,2-dihydrobenzo[j]aceanthrylene"
+CID:16784,0,2279-76-7,16784,Tripropyltin chloride,chloro(tripropyl)stannane
+CID:16945,0,2385-85-5,16945,Mirex,"1,2,3,4,5,5,6,7,8,9,10,10-Dodecachloropentacyclodecane "
+CID:17097,0,2437-79-8,17097,"2,4,2',4'-Tetrachlorobiphenyl","2,4-dichloro-1-(2,4-dichlorophenyl)benzene"
+CID:1732,0,59-50-7,1732,Chlorocresol,4-chloro-3-methylphenol
+CID:17412,0,2581-34-2,17412,4-Nitro-3-cresol,3-methyl-4-nitrophenol
+CID:1752,0,104-40-5,1752,4-Nonylphenol,4-nonylphenol
+CID:17570,0,2664-63-3,17570,Bis(4-oxyphenyl) sulfide,4-(4-hydroxyphenyl)sulfanylphenol
+CID:177,0,75-07-0,177,Acetaldehyde,acetaldehyde
+CID:177033,0,18964-53-9,177033,"2,4,6-Triphenyl-1-hexene","1,5-diphenylhex-5-en-3-ylbenzene"
+CID:177947,0,152969-11-4,177947,"4-Hydroxy-2,3,3',4',5-pentachlorobiphenyl","2,3,6-trichloro-4-(3,4-dichlorophenyl)phenol"
+CID:183016,0,131167-12-9,183016,"2,3,7-tribromo-8-chlorodibenzo-p-dioxin","2,3,7-tribromo-8-chlorodibenzo-p-dioxin"
+CID:18529,0,3194-55-6,18529,"1,2,5,6,9,10-Hexabromocyclododecane","1,2,5,6,9,10-hexabromocyclododecane"
+CID:18611,0,3248-91-7,18611,New fuchsin,"[4-[bis(4-amino-3-methylphenyl)methylidene]-2-methylcyclohexa-2,5-dien-1-ylidene]azanium;chloride"
+CID:18617,0,3252-43-5,18617,Dibromoacetonitrile,"2,2-dibromoacetonitrile"
+CID:186907,0,1162-65-8,186907,Aflatoxin B1,"(6aR,9aS)-4-Methoxy-2,3,6a,9a-tetrahydrocyclopenta[c]furo[3',2':4,5]furo[2,3-h]chromene-1,11-dione"
+CID:18728,0,3322-93-8,18728,"1,2-Dibromo-4-(1,2-dibromoethyl)cyclo hexane","1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane"
+CID:18831,0,3397-62-4,18831,"2-Chloro-4,6-diamino-s-triazine","6-chloro-1,3,5-triazine-2,4-diamine"
+CID:1982,0,30560-19-1,1982,Acephate,N-[methoxy(methylsulfanyl)phosphoryl]acetamide
+CID:1983,0,103-90-2,1983,Acetaminophen,N-(4-hydroxyphenyl)acetamide
+CID:1988,0,34256-82-1,1988,Acetochlor,2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide
+CID:19943,0,4032-26-2,19943,Diquat dichloride,"6,7-dihydrodipyrido[1,2-b:1',2'-e]pyrazine-5,8-diium;dichloride"
+CID:20161,0,4191-73-5,20161,Isopropyl paraben,propan-2-yl 4-hydroxybenzoate
+CID:20393,0,4376-20-9,20393,Mono-(2-ethylhexyl) phthalate,2-(2-ethylhexoxycarbonyl)benzoic acid
+CID:20774,0,33204-76-1,20774,Quadrosilan,"2,2,4,6,6,8-hexamethyl-4,8-diphenyl-1,3,5,7,2,4,6,8-tetraoxatetrasilocane"
+CID:2078,0,15972-60-8,2078,Alachlor,"2-chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide"
+CID:21013,0,4901-51-3,21013,"2,3,4,5-Tetrachlorophenate","2,3,4,5-tetrachlorophenol"
+CID:213031,0,126833-17-8,213031,Fenhexamid,"N-(2,3-dichloro-4-hydroxyphenyl)-1-methylcyclohexane-1-carboxamide"
+CID:2145,0,125-84-8,2145,Aminoglutethimide,"3-(4-aminophenyl)-3-ethylpiperidine-2,6-dione"
+CID:2151,0,83-07-8,2151,Ampyrone,"4-amino-1,5-dimethyl-2-phenylpyrazol-3-one"
+CID:2153,0,58-55-9,2153,Theophylline,"1,3-dimethyl-7H-purine-2,6-dione"
+CID:21803,0,5598-13-0,21803,Chlorpyrifos-methyl,"dimethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-$l^{5}-phosphane"
+CID:2187,0,120511-73-1,2187,Anastrozole,"2-[3-(2-cyanopropan-2-yl)-5-(1,2,4-triazol-1-ylmethyl)phenyl]-2-methylpropanenitrile"
+CID:220773,0,523-31-9,220773,Dibenzyl phthalate,"dibenzyl benzene-1,2-dicarboxylate"
+CID:22206,0,5915-41-3,22206,Terbutylazine,"2-N-tert-butyl-6-chloro-4-N-ethyl-1,3,5-triazine-2,4-diamine"
+CID:222284,0,83-46-5,222284,beta-Sitosterol,"(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+CID:222757,0,50-50-0,222757,Estradiol-3-benzoate,"[(8R,9S,13S,14S,17S)-17-hydroxy-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-3-yl] benzoate"
+CID:22544,0,6164-98-3,22544,Chlordimeform,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide"
+CID:2256,0,1912-24-9,2256,Atrazine,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine"
+CID:2286,0,1675-54-3,2286,Bisphenol A diglycidylether,2-[[4-[2-[4-(oxiran-2-ylmethoxy)phenyl]propan-2-yl]phenoxy]methyl]oxirane
+CID:2288503,0,3600-64-4,2288503,"3,3-Bis(4-hydroxyphenyl)pentane",4-[3-(4-hydroxyphenyl)pentan-3-yl]phenol
+CID:228987,0,80-54-6,228987,Lilial,3-(4-tert-butylphenyl)-2-methylpropanal
+CID:232446,0,843-55-0,232446,"4,4'-Cyclohexylidenebisphenol",4-[1-(4-hydroxyphenyl)cyclohexyl]phenol
+CID:23249466,0,102739-99-1,23249466,"6-methoxy-2,2',4,4'-tetrabromodiphenyl ether","1,5-dibromo-2-(2,4-dibromophenoxy)-3-methoxybenzene"
+CID:23266,0,1344-09-8,23266,Sodium silicate,disodium;dioxido(oxo)silane
+CID:2336,0,50-32-8,2336,Benzo(a)pyrene,benzo[a]pyrene
+CID:23448,0,7012-37-5,23448,"2,4,4'-Trichlorobiphenyl","2,4-dichloro-1-(4-chlorophenyl)benzene"
+CID:2347,0,85-68-7,2347,Butyl benzyl phthalate,"2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate"
+CID:2361,0,6051-87-2,2361,beta-Naphthoflavone,3-phenylbenzo[f]chromen-1-one
+CID:23668193,0,7632-00-0,23668193,Sodium nitrite,sodium;nitrite
+CID:23668195,0,7789-38-0,23668195,"Bromic acid, sodiumsalt",sodium;bromate
+CID:23668197,0,7758-19-2,23668197,Sodium chlorite,sodium;chlorite
+CID:23669238,0,2795-39-3,23669238,Potassium perfluorooctanesulfonate,"potassium;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonate"
+CID:23690444,0,367-51-1,23690444,Sodium thioglycolate,sodium;2-sulfanylacetate
+CID:23930,0,7439-96-5,23930,Manganese,manganese
+CID:23973,0,7440-43-9,23973,Cadmium,cadmium
+CID:23976,0,7440-47-3,23976,Chromium,chromium
+CID:23989,0,7440-61-1,23989,Uranium,uranium
+CID:24085,0,7487-94-7,24085,Mercuric chloride,dichloromercury
+CID:241,0,71-43-2,241,Benzene,benzene
+CID:24586,0,7786-81-4,24586,Nickel sulfate,nickel(2+);sulfate
+CID:24639,0,7790-98-9,24639,Ammonium perchlorate,azanium;perchlorate
+CID:246598,0,3424-82-6,246598,"2,2-(2-Chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene","1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene"
+CID:24667,0,25013-16-5,24667,Butylated hydroxyanisole,2-tert-butyl-4-methoxyphenol;3-tert-butyl-4-methoxyphenol
+CID:2478,0,55-98-1,2478,Busulfan,4-methylsulfonyloxybutyl methanesulfonate
+CID:24870,0,10049-04-4,24870,Chlorine dioxide,chlorine dioxide
+CID:24947,0,10108-64-2,24947,Cadmium chloride,dichlorocadmium
+CID:25015,0,10161-33-8,25015,Trenbolone,"(8S,13S,14S,17S)-17-hydroxy-13-methyl-2,6,7,8,14,15,16,17-octahydro-1H-cyclopenta[a]phenanthren-3-one"
+CID:25154,0,10325-94-7,25154,Cadmium nitrate,cadmium(2+);dinitrate
+CID:2519,0,58-08-2,2519,Caffeine,"1,3,7-trimethylpurine-2,6-dione"
+CID:253881,0,7647-15-6,253881,Sodium bromide,sodium;bromide
+CID:25429,0,10605-21-7,25429,Carbendazim,methyl N-(1H-benzimidazol-2-yl)carbamate
+CID:25517,0,12125-02-9,25517,Ammonium chloride,azanium;chloride
+CID:2566,0,1563-66-2,2566,Carbofuran,"(2,2-dimethyl-3H-1-benzofuran-7-yl) N-methylcarbamate"
+CID:26042,0,13463-67-7,26042,Titanium dioxide,dioxotitanium
+CID:26124,0,13593-03-8,26124,Quinalphos,diethoxy-quinoxalin-2-yloxy-sulfanylidene-$l^{5}-phosphane
+CID:26176,0,13674-84-5,26176,Tri-(2-chloroisopropyl) phosphate,tris(1-chloropropan-2-yl) phosphate
+CID:26177,0,13674-87-8,26177,"Tris(1,3-dichloro-2-propyl) phosphate","tris(1,3-dichloropropan-2-yl) phosphate"
+CID:26229,0,122-88-3,26229,4-Chlorophenoxyacetic acid,2-(4-chlorophenoxy)acetic acid
+CID:26975,0,14938-35-3,26975,4-Pentylphenol,4-pentylphenol
+CID:27021,0,15087-24-8,27021,3-Benzylidenecamphor,"2-benzylidene-4,7,7-trimethylbicyclo[2.2.1]heptan-3-one"
+CID:2723650,0,96-45-7,2723650,Ethylene thiourea,imidazolidine-2-thione
+CID:2730,0,2921-88-2,2730,Chlorpyrifos,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-$l^{5}-phosphane"
+CID:2733525,0,54965-24-1,2733525,Tamoxifen citrate,"2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid"
+CID:2733526,0,10540-29-1,2733526,Tamoxifen,"2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine"
+CID:27375,0,15545-48-9,27375,Chlorotoluron,"3-(3-chloro-4-methylphenyl)-1,1-dimethylurea"
+CID:27582,0,15950-66-0,27582,"2,3,4-Trichlorophenol","2,3,4-trichlorophenol"
+CID:27668,0,16065-83-1,27668,Chromium(III),chromium(3+)
+CID:2771,0,59729-33-8,2771,Citalopram,1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-3H-2-benzofuran-5-carbonitrile
+CID:2776282,0,3825-26-1,2776282,Ammonium perfluorooctanoate,"azanium;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoate"
+CID:27924,0,16561-29-8,27924,Tetradecanoyl phorbol acetate,"(1aR,1bS,4aR,7aS,7bS,8R,9R,9aS)-9a-Acetoxy-4a,7b-dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1a,1b,4,4a,5,7a,7b,8,9,9a-decahydro-1H-cyclopropa[3,4]benzo[1,2-e]azulen-9-yl myristate"
+CID:28061,0,16773-42-5,28061,Ornidazole,1-chloro-3-(2-methyl-5-nitroimidazol-1-yl)propan-2-ol
+CID:28780,0,17804-35-2,28780,Benomyl,methyl N-[1-(butylcarbamoyl)benzimidazol-2-yl]carbamate
+CID:2879,0,106-44-5,2879,p-Cresol,4-methylphenol
+CID:2907,0,50-18-0,2907,Cyclophosphamide,"N,N-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine"
+CID:2912,0,52315-07-8,2912,Cypermethrin,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+CID:29131,0,18540-29-9,29131,Chromium hexavalention,chromium(6+)
+CID:2950,0,117-10-2,2950,Danthron,"1,8-dihydroxyanthracene-9,10-dione"
+CID:296646,0,3194-57-8,296646,"1,2,5,6-Tetrabromocyclooctane","1,2,5,6-tetrabromocyclooctane"
+CID:299,0,143-50-0,299,Chlordecone,"1,2,3,4,6,7,8,9,10,10-Decachloropentacyclodecan-5-one"
+CID:2999413,0,26538-44-3,2999413,Zeranol,"(7R,11S)-7,15,17-trihydroxy-11-methyl-12-oxabicyclo[12.4.0]octadeca-1(14),15,17-trien-13-one"
+CID:3016578,0,50976-18-6,3016578,Tetrahydrofuran diol,"oxolane-2,2-diol"
+CID:3017,0,333-41-5,3017,Diazinon,diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidene-$l^{5}-phosphane
+CID:3022255,0,1895-26-7,3022255,Bis[2-(perfluorodecyl)ethyl] Phosphate,"bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-henicosafluorododecyl) hydrogen phosphate"
+CID:3026,0,84-74-2,3026,Dibutyl phthalate,"dibutyl benzene-1,2-dicarboxylate"
+CID:3032581,0,12427-38-2,3032581,Maneb,manganese(2+);N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate
+CID:3032732,0,688-73-3,3032732,Tributlytin,tributyltin
+CID:3032791,0,23564-05-8,3032791,Thiophanate,methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate
+CID:3033832,0,50-41-9,3033832,Clomiphene citrate,"2-[4-[(Z)-2-chloro-1,2-diphenylethenyl]phenoxy]-N,N-diethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid"
+CID:3035,0,72-55-9,3035,DDE,"1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene"
+CID:3035829,0,79319-85-0,3035829,Bismerthiazol,"5-[[(2-sulfanylidene-3H-1,3,4-thiadiazol-5-yl)amino]methylamino]-3H-1,3,4-thiadiazole-2-thione"
+CID:3036,0,50-29-3,3036,DDT,"1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene"
+CID:3039,0,62-73-7,3039,Dichlorvos,"2,2-dichloroethenyl dimethyl phosphate"
+CID:30479,0,21087-64-9,30479,Metribuzin,"4-amino-6-tert-butyl-3-methylsulfanyl-1,2,4-triazin-5-one"
+CID:3048,0,72-20-8,3048,Endrin,"3,4,5,6,13,13-Hexachloro-10-oxapentacyclotridec-4-ene"
+CID:30541,0,21245-02-3,30541,2-Ethylhexyl 4-(dimethylamino) benzoate,2-ethylhexyl 4-(dimethylamino)benzoate
+CID:305767,0,1461-23-0,305767,Tributyltin bromide,bromo(tributyl)stannane
+CID:30773,0,21725-46-2,30773,Cyanazine,"2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile"
+CID:3080712,0,17927-65-0,3080712,Aluminumsulfate,dialuminum;trisulfate;hydrate
+CID:3086109,0,79755-43-4,3086109,"3,5-Dibromo-2-(2,4-dibromophenoxy)phenol","3,5-dibromo-2-(2,4-dibromophenoxy)phenol"
+CID:3102,0,119-61-9,3102,Benzophenone,diphenylmethanone
+CID:3120,0,330-54-1,3120,Diuron,"3-(3,4-dichlorophenyl)-1,1-dimethylurea"
+CID:31200,0,122-14-5,31200,Fenitrothion,dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-$l^{5}-phosphane
+CID:3121,0,99-66-1,3121,Valproic acid,2-propylpentanoic acid
+CID:31356,0,126-72-7,31356,"Tris(2,3-dibromopropyl) phosphate","tris(2,3-dibromopropyl) phosphate"
+CID:31357,0,126-73-8,31357,Tributyl phosphate,tributyl phosphate
+CID:31373,0,127-18-4,31373,Tetrachloro ethylene,"1,1,2,2-tetrachloroethene"
+CID:31404,0,128-37-0,31404,Butylated hydroxytoluene,"2,6-ditert-butyl-4-methylphenol"
+CID:3198,0,27220-47-9,3198,Econazole,"1-[2-[(4-chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]imidazole"
+CID:32014,0,23583-48-4,32014,8-Bromocyclicadenosinemonophosphate,"(4aR,6R,7R,7aS)-6-(6-amino-8-bromopurin-9-yl)-2-hydroxy-2-oxo-4a,6,7,7a-tetrahydro-4H-furo[3,2-d][1,3,2]dioxaphosphinin-7-ol"
+CID:3220,0,518-82-1,3220,Emodin,"1,3,8-trihydroxy-6-methylanthracene-9,10-dione"
+CID:3224,0,115-29-7,3224,Endosulfan,"1,9,10,11,12,12-Hexachloro-4,6-dioxa-5-thiatricyclododec-10-ene 5-oxide"
+CID:3283,0,60-29-7,3283,Ethyl ether,ethoxyethane
+CID:3292100,0,13595-25-0,3292100,Bisphenol M,4-[2-[3-[2-(4-hydroxyphenyl)propan-2-yl]phenyl]propan-2-yl]phenol
+CID:3317081,0,135319-73-2,3317081,Epoxiconazole,"1-[[3-(2-chlorophenyl)-2-(4-fluorophenyl)oxiran-2-yl]methyl]-1,2,4-triazole"
+CID:33263,0,25973-55-1,33263,"2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol","2-(benzotriazol-2-yl)-4,6-bis(2-methylbutan-2-yl)phenol"
+CID:3347,0,51630-58-1,3347,Fenvalerate,[cyano-(3-phenoxyphenyl)methyl] 2-(4-chlorophenyl)-3-methylbutanoate
+CID:3352,0,120068-37-3,3352,Fipronil,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile"
+CID:33599,0,26761-40-0,33599,Diisodecyl phthalate,"bis(8-methylnonyl) benzene-1,2-dicarboxylate"
+CID:33741,0,27203-92-5,33741,Tramadol,"(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol"
+CID:3386,0,54910-89-3,3386,Fluoxetine,N-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine
+CID:3397,0,13311-84-7,3397,Flutamide,2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide
+CID:34254,0,28469-92-3,34254,"2,6-Dichlorostyrene","1,3-dichloro-2-ethenylbenzene"
+CID:34466,0,29082-74-4,34466,Octachloro styrene,"1,2,3,4,5-pentachloro-6-(1,2,2-trichloroethenyl)benzene"
+CID:3453883,0,932-64-9,3453883,"5-Nitro-1,2,4-triazol-3-one","5-nitro-1,2-dihydro-1,2,4-triazol-3-one"
+CID:3473,0,39886-76-5,3473,rac-[6]-Gingerol,5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one
+CID:3485,0,111-30-8,3485,Glutaral,pentanedial
+CID:3496,0,1071-83-6,3496,Glyphosate,2-(phosphonomethylamino)acetic acid
+CID:3518,0,55-65-2,3518,Guanethidine,2-[2-(azocan-1-yl)ethyl]guanidine
+CID:356,0,111-65-9,356,Octane,octane
+CID:35781,0,31363-74-3,35781,"5,7-Dihydroxytryptamine","3-(2-aminoethyl)-1H-indole-5,7-diol"
+CID:35823,0,31508-00-6,35823,"2,3',4,4',5-Pentachlorobiphenyl","1,2,4-trichloro-5-(3,4-dichlorophenyl)benzene"
+CID:3589,0,76-44-8,3589,Heptachlor,"1,5,7,8,9,10,10-Heptachlorotricyclodeca-3,8-diene"
+CID:359,0,108-73-6,359,"1,3,5-Benzenetriol","benzene-1,3,5-triol"
+CID:3610,0,136-77-6,3610,Hexyl resorcinol,"4-hexylbenzene-1,3-diol"
+CID:36159,0,60348-60-9,36159,"2,2',4,4',5-Pentabromodiphenyl ether","1,2,4-tribromo-5-(2,4-dibromophenoxy)benzene"
+CID:36187,0,32598-13-3,36187,"3,4,3',4'-Tetrachlorobiphenyl","1,2-dichloro-4-(3,4-dichlorophenyl)benzene"
+CID:36231,0,32774-16-6,36231,"3,4,5,3',4',5'-Hexachlorobiphenyl","1,2,3-trichloro-5-(3,4,5-trichlorophenyl)benzene"
+CID:36242,0,32809-16-8,36242,Procymidone,"3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione"
+CID:36324,0,33089-61-1,36324,Amitraz,"N'-(2,4-dimethylphenyl)-N-[(2,4-dimethylphenyl)iminomethyl]-N-methylmethanimidamide"
+CID:36400,0,33284-52-5,36400,Aroclor 1248,"1,3-dichloro-5-(3,5-dichlorophenyl)benzene"
+CID:3672,0,15687-27-1,3672,Ibuprofen,2-[4-(2-methylpropyl)phenyl]propanoic acid
+CID:37034,0,35065-27-1,37034,"2,4,5,2',4',5'-Hexachlorobiphenyl","1,2,4-trichloro-5-(2,4,5-trichlorophenyl)benzene"
+CID:3712,0,700-06-1,3712,Indole-3-carbinol,1H-indol-3-ylmethanol
+CID:3715,0,53-86-1,3715,Indomethacin,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid
+CID:37175,0,35554-44-0,37175,Enilconazole,"1-[2-(2,4-dichlorophenyl)-2-prop-2-enoxyethyl]imidazole"
+CID:37248,0,35693-99-3,37248,"2,5,2',5'-Tetrachlorobiphenyl","1,4-dichloro-2-(2,5-dichlorophenyl)benzene"
+CID:37517,0,36734-19-7,37517,Iprodione,"3-(3,5-dichlorophenyl)-2,4-dioxo-N-propan-2-ylimidazolidine-1-carboxamide"
+CID:37542,0,36791-04-5,37542,Ribavirin,"1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide"
+CID:37563,0,36861-47-9,37563,Enzacamene,"4,7,7-trimethyl-2-[(4-methylphenyl)methylidene]bicyclo[2.2.1]heptan-3-one"
+CID:3758,0,28822-58-4,3758,1-Methyl-3-isobutyl xanthine,"1-methyl-3-(2-methylpropyl)-7H-purine-2,6-dione"
+CID:3763,0,26675-46-7,3763,Isoflurane,"2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane"
+CID:3767,0,54-85-3,3767,Isoniazid,pyridine-4-carbohydrazide
+CID:37803,0,37680-65-2,37803,"2,2',5-Trichlorobiphenyl","1,4-dichloro-2-(2-chlorophenyl)benzene"
+CID:38012,0,38379-99-6,38012,"2,2',3,5',6-Pentachlorobiphenyl","1,2,4-trichloro-3-(2,5-dichlorophenyl)benzene"
+CID:38015,0,38380-03-9,38015,"2,3,3',4',6-Pentachlorobiphenyl","1,2,4-trichloro-3-(3,4-dichlorophenyl)benzene"
+CID:38016,0,38380-04-0,38016,"2,2',3,4',5',6-Hexachlorobiphenyl","1,2,4-trichloro-3-(2,4,5-trichlorophenyl)benzene"
+CID:38019,0,38380-08-4,38019,"2,3,3',4,4',5-Hexachlorobiphenyl","1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene"
+CID:38024,0,38411-22-2,38024,"2,3,6,2',3',6'-Hexachlorobiphenyl","1,2,4-trichloro-3-(2,3,6-trichlorophenyl)benzene"
+CID:38037,0,38444-87-0,38037,"3,3',5-Trichlorobiphenyl","1,3-dichloro-5-(3-chlorophenyl)benzene"
+CID:38251,0,39227-28-6,38251,"1,2,3,4,7,8-Hexachlorodibenzodioxin","1,2,3,4,7,8-hexachlorodibenzo-p-dioxin"
+CID:38253,0,39227-58-2,38253,"1,2,4-Trichlorodibenzo-1,4-dioxin","1,2,4-trichlorodibenzo-p-dioxin"
+CID:3840,0,501-30-4,3840,5-Hydroxy-2-(hydroxymethyl)-4H-pyran-4-one,5-hydroxy-2-(hydroxymethyl)pyran-4-one
+CID:38439,0,40321-76-4,38439,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin","1,2,3,7,8-pentachlorodibenzo-p-dioxin"
+CID:38479,0,40487-42-1,38479,Pendimethalin,"3,4-dimethyl-2,6-dinitro-N-pentan-3-ylaniline"
+CID:38779,0,41198-08-7,38779,Profenofos,4-bromo-2-chloro-1-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene
+CID:38875,0,41464-39-5,38875,"2,2',3,5'-Tetrachlorobiphenyl","1,2-dichloro-3-(2,5-dichlorophenyl)benzene"
+CID:38876,0,41464-40-8,38876,"2,2',4,5'-Tetrachlorobiphenyl","1,4-dichloro-2-(2,4-dichlorophenyl)benzene"
+CID:3902,0,112809-51-5,3902,Letrozole,"4-[(4-cyanophenyl)-(1,2,4-triazol-1-yl)methyl]benzonitrile"
+CID:39385,0,43121-43-3,39385,Triadimefon,"1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one"
+CID:39676,0,50471-44-8,39676,Vinclozolin,"3-(3,5-dichlorophenyl)-5-ethenyl-5-methyl-1,3-oxazolidine-2,4-dione"
+CID:39681,0,50512-35-1,39681,Isoprothiolane,"dipropan-2-yl 2-(1,3-dithiolan-2-ylidene)propanedioate"
+CID:39728,0,50585-40-5,39728,"2,3-Dibromo-7,8-dichlorodibenzo-p-dioxin","2,3-dibromo-7,8-dichlorodibenzo-p-dioxin"
+CID:39729,0,50585-41-6,39729,"2,3,7,8-Tetrabromodibenzo-p-dioxin","2,3,7,8-tetrabromodibenzo-p-dioxin"
+CID:40024,0,51481-10-8,40024,Deoxynivalenol,"(3β,7α)-3,7,15-Trihydroxy-12,13-epoxytrichothec-9-en-8-one"
+CID:4004,0,121-75-5,4004,Malathion,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate
+CID:403,0,123-30-8,403,p-Amino phenol,4-aminophenol
+CID:40326,0,52645-53-1,40326,Permethrin,"(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+CID:40463,0,61949-76-6,40463,"Permethrin, cis-","(3-phenoxyphenyl)methyl (1R,3R)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+CID:40470,0,11097-69-1,40470,Aroclor 1254,"1,2,3-trichloro-4-(2,3-dichlorophenyl)benzene"
+CID:40585,0,52918-63-5,40585,Deltamethrin,"[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dibromoethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+CID:409301,0,115-09-3,409301,Methyl mercuric chloride,chloro(methyl)mercury
+CID:4096,0,10265-92-6,4096,Methamidophos,[amino(methylsulfanyl)phosphoryl]oxymethane
+CID:4115,0,72-43-5,4115,Methoxychlor,"1-methoxy-4-[2,2,2-trichloro-1-(4-methoxyphenyl)ethyl]benzene"
+CID:4130,0,298-00-0,4130,Methyl parathion,dimethoxy-(4-nitrophenoxy)-sulfanylidene-$l^{5}-phosphane
+CID:41322,0,55097-80-8,41322,"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene9,10-oxide","7,8,8a,9a-Tetrahydrobenzo[1,12]tetrapheno[10,11-b]oxirene-7,8-diol"
+CID:41368,0,55219-65-3,41368,Triadimenol,"1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol"
+CID:41478,0,55566-30-8,41478,Tetrakis(hydroxymethyl)phosphonium sulfate,tetrakis(hydroxymethyl)phosphanium;sulfate
+CID:4189,0,22916-47-8,4189,Miconazole,"1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]imidazole"
+CID:4201081,0,1576-13-2,4201081,"4,4'-Propane-1,1-diyldiphenol",4-[1-(4-hydroxyphenyl)propyl]phenol
+CID:42027,0,56892-30-9,42027,2-Hydroxybenzo(a)pyrene,benzo[a]pyren-2-ol
+CID:4211,0,53-19-0,4211,Mitotane,"1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene"
+CID:42128,0,57117-31-4,42128,"2,3,4,7,8-Pentachlorodibenzofuran","2,3,4,7,8-pentachlorodibenzofuran"
+CID:42628600,0,143545-90-8,42628600,Cylindrospermopsin,"(2aS,3R,4S,5aS,7R)-7-[(R)-(2,6-Dioxo-1,2,3,6-tetrahydro-4-pyrimidinyl)(hydroxy)methyl]-3-methyl-2,2a,3,4,5,5a,6,7-octahydro-1H-1,8,8b-triazaacenaphthylen-4-yl hydrogen sulfate"
+CID:42844,0,58802-20-3,42844,"1,2,7,8-Tetrachlorodibenzofuran","1,2,7,8-tetrachlorodibenzofuran"
+CID:42851,0,58817-05-3,42851,Octyl dimethyl 4-aminobenzoic acid,octyl 4-(dimethylamino)benzoate
+CID:42948,0,59080-40-9,42948,"2,4,5,2',4',5'-Hexabromobiphenyl","1,2,4-tribromo-5-(2,4,5-tribromophenyl)benzene"
+CID:43226,0,60168-88-9,43226,Fenarimol,(2-chlorophenyl)-(4-chlorophenyl)-pyrimidin-5-ylmethanol
+CID:43234,0,60207-90-1,43234,Propiconazole,"1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole"
+CID:43815,0,61869-08-7,43815,Paroxetine,"(3S,4R)-3-(1,3-benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine"
+CID:439246,0,480-41-1,439246,Naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one"
+CID:441404,0,58-20-8,441404,Testosterone-17-beta-cypionate,"[(8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate"
+CID:44251561,0,21419-75-0,44251561,4-Nitro-3-phenylphenol,4-nitro-3-phenylphenol
+CID:442530,0,303-47-9,442530,Ochratoxin A,"(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid"
+CID:442731,0,13241-28-6,442731,Pulmatin,"1-hydroxy-3-methyl-8-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyanthracene-9,10-dione"
+CID:442793,0,23513-14-6,442793,S-[6]-Gingerol,(5S)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one
+CID:443409,0,36292-66-7,443409,Ethyl ketocyclazocine,"(1R,9S)-10-(Cyclopropylmethyl)-1-ethyl-4-hydroxy-13-methyl-10-azatricyclotrideca-2,4,6-trien-8-one"
+CID:445154,0,501-36-0,445154,Resveratrol,"5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol"
+CID:445434,0,101043-37-2,445434,Cyanoginosin LR,"(5R,8S,11R,12S,15S,18S,19S,22R)-15-[3-(diaminomethylideneamino)propyl]-18-[(1E,3E,5S,6S)-6-methoxy-3,5-dimethyl-7-phenylhepta-1,3-dienyl]-1,5,12,19-tetramethyl-2-methylidene-8-(2-methylpropyl)-3,6,9,13,16,20,25-heptaoxo-1,4,7,10,14,17,21-heptazacyclopentacosane-11,22-dicarboxylic acid"
+CID:447466,0,4170-30-3,447466,Crotonaldehyde,(E)-but-2-enal
+CID:448537,0,56-53-1,448537,Diethylstilbestrol,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+CID:449459,0,68047-06-3,449459,Hydroxy tamoxifen,4-[(Z)-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol
+CID:4534,0,500-38-9,4534,Nordihydro guaiaretic acid,"4-[4-(3,4-dihydroxyphenyl)-2,3-dimethylbutyl]benzene-1,2-diol"
+CID:456201,0,65277-42-1,456201,Ketoconazole,"1-[4-[4-[[(2R,4S)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone"
+CID:4632,0,131-57-7,4632,Benzophenone-3,(2-hydroxy-4-methoxyphenyl)-phenylmethanone
+CID:4696,0,149-29-1,4696,Patulin,"4-hydroxy-4,6-dihydrofuro[3,2-c]pyran-2-one"
+CID:469625,0,38641-94-0,469625,Roundup,2-(phosphonomethylamino)acetate;propan-2-ylazanium
+CID:4763,0,50-06-6,4763,Phenobarbital,"5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione"
+CID:4766,0,143-74-8,4766,Phenol sulfonphthalein,"4-[3-(4-hydroxyphenyl)-1,1-dioxo-2,1$l^{6}-benzoxathiol-3-yl]phenol"
+CID:4767,0,26002-80-2,4767,Phenothrin,"(3-phenoxyphenyl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+CID:4788,0,60-82-2,4788,Phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one"
+CID:47898,0,66332-96-5,47898,Flutolanil,N-(3-propan-2-yloxyphenyl)-2-(trifluoromethyl)benzamide
+CID:47936,0,66575-29-9,47936,Colforsin,"[(3R,4aR,5S,6S,6aS,10S,10aR,10bS)-3-ethenyl-6,10,10b-trihydroxy-3,4a,7,7,10a-pentamethyl-1-oxo-5,6,6a,8,9,10-hexahydro-2H-benzo[f]chromen-5-yl] acetate"
+CID:4929,0,7287-19-6,4929,Prometryn,"6-methylsulfanyl-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine"
+CID:4933,0,709-98-8,4933,Propanil,"N-(3,4-dichlorophenyl)propanamide"
+CID:4937,0,139-40-2,4937,Propazine,"6-chloro-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine"
+CID:49973,0,67733-57-7,49973,"2,3,7,8-Tetrabromodibenzofuran","2,3,7,8-tetrabromodibenzofuran"
+CID:500199,0,71963-77-4,500199,Artemether,"10-Methoxy-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclohexadecane"
+CID:5035,0,84449-90-1,5035,Raloxifene,[6-hydroxy-2-(4-hydroxyphenyl)-1-benzothiophen-3-yl]-[4-(2-piperidin-1-ylethoxy)phenyl]methanone
+CID:51439,0,71859-30-8,51439,"2,2',4,4',5,5'-Hexachlorodiphenyl ether","1,2,4-trichloro-5-(2,4,5-trichlorophenoxy)benzene"
+CID:516900,0,7778-74-7,516900,Potassium perchlorate,potassium;perchlorate
+CID:5196,0,57-56-7,5196,Carbamyl hydrazine,aminourea
+CID:5212,0,139755-83-2,5212,Sildenafil,"5-[2-ethoxy-5-(4-methylpiperazin-1-yl)sulfonylphenyl]-1-methyl-3-propyl-4H-pyrazolo[4,3-d]pyrimidin-7-one"
+CID:5216,0,122-34-9,5216,Simazine,"6-chloro-2-N,4-N-diethyl-1,3,5-triazine-2,4-diamine"
+CID:5235,0,7681-49-4,5235,Sodium fluoride,sodium;fluoride
+CID:527,0,123-38-6,527,Propionaldehyde,propanal
+CID:5280343,0,117-39-5,5280343,Quercetin,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one"
+CID:5280373,0,491-80-5,5280373,Biochanin A,"5,7-dihydroxy-3-(4-methoxyphenyl)chromen-4-one"
+CID:5280378,0,485-72-3,5280378,Formononetin,7-hydroxy-3-(4-methoxyphenyl)chromen-4-one
+CID:5280443,0,520-36-5,5280443,Apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one"
+CID:5280445,0,491-70-3,5280445,Luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one"
+CID:5280961,0,446-72-0,5280961,Genistein,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one"
+CID:5281004,0,51333-22-3,5281004,Budesonide,"(4aR,4bS,5S,6aS,6bS,9aR,10aS,10bS)-6b-Glycoloyl-5-hydroxy-4a,6a-dimethyl-8-propyl-4a,4b,5,6,6a,6b,9a,10,10a,10b,11,12-dodecahydro-2H-naphthoindenodioxol-2-one"
+CID:5281377,0,529-59-9,5281377,Genistin,"5-hydroxy-3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one"
+CID:5281576,0,17924-92-4,5281576,Zearalenone,"(2E,11S)-15,17-dihydroxy-11-methyl-12-oxabicyclo[12.4.0]octadeca-1(14),2,15,17-tetraene-7,13-dione"
+CID:5281607,0,480-40-0,5281607,Chrysin,"5,7-dihydroxy-2-phenylchromen-4-one"
+CID:5281654,0,480-19-3,5281654,3-Methylquercetin,"3,5,7-trihydroxy-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one"
+CID:5281672,0,529-44-2,5281672,Myricetin,"3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one"
+CID:5281707,0,479-13-0,5281707,Coumestrol,"3,9-dihydroxy-[1]benzofuro[3,2-c]chromen-6-one"
+CID:5281708,0,486-66-8,5281708,Daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one
+CID:5281792,0,20283-92-5,5281792,Rosmarinic acid,"(2R)-3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid"
+CID:5284373,0,59865-13-3,5284373,Cyclosporin A,"(3S,6S,9S,12R,15S,18S,21S,24S,30S,33S)-30-ethyl-33-[(E,1R,2R)-1-hydroxy-2-methylhex-4-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"
+CID:5284378,0,81-11-8,5284378,Amsonic acid,5-amino-2-[(E)-2-(4-amino-2-sulfophenyl)ethenyl]benzenesulfonic acid
+CID:5284448,0,9005-65-6,5284448,Polysorbate 80,"2-[2-[3,5-bis(2-hydroxyethoxy)oxolan-2-yl]-2-(2-hydroxyethoxy)ethoxy]ethyl (E)-octadec-9-enoate"
+CID:5284484,0,12122-67-7,5284484,Zineb,zinc;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate
+CID:5284537,0,2098-66-0,5284537,Cyproterone,"(1R,3aS,3bR,7aR,8aS,8bS,8cS,10aS)-1-Acetyl-5-chloro-1-hydroxy-8b,10a-dimethyl-2,3,3a,3b,7a,8,8a,8b,8c,9,10,10a-dodecahydrocyclopenta[a]cyclopropa[g]phenanthren-7(1H)-one"
+CID:5284583,0,102767-28-2,5284583,Levetiracetam,(2S)-2-(2-oxopyrrolidin-1-yl)butanamide
+CID:5284596,0,465-65-6,5284596,Naloxone,"(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-prop-2-enyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7-one"
+CID:5284645,0,36455-72-8,5284645,alpha-Zearalenol,"(2E,7R,11S)-7,15,17-trihydroxy-11-methyl-12-oxabicyclo[12.4.0]octadeca-1(14),2,15,17-tetraen-13-one"
+CID:5288826,0,57-27-2,5288826,Morphine,"(4R,4aR,7S,7aR,12bS)-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol"
+CID:53232,0,75330-75-5,53232,Lovastatin,"[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate"
+CID:5324346,0,54739-18-3,5324346,Fluvoxamine,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine
+CID:53249535,0,39300-45-3,53249535,Dinocap,"[2-(6-methylheptyl)-4,6-dinitrophenyl] (E)-but-2-enoate"
+CID:5340,0,72-14-0,5340,Sulfathiazole,"4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide"
+CID:5352425,0,7439-92-1,5352425,Lead,lead
+CID:5354198,0,1689-82-3,5354198,4-Hydroxyazobenzene,"4-(phenylhydrazinylidene)cyclohexa-2,5-dien-1-one"
+CID:5355,0,15676-16-1,5355,Sulpiride,N-[(1-ethylpyrrolidin-2-yl)methyl]-2-methoxy-5-sulfamoylbenzamide
+CID:5355130,0,5466-77-3,5355130,Octinoxate,2-ethylhexyl (E)-3-(4-methoxyphenyl)prop-2-enoate
+CID:5357402,0,892-20-6,5357402,Triphenyltin,triphenyltin
+CID:5359485,0,641-38-3,5359485,Alternariol,"3,7,9-trihydroxy-1-methylbenzo[c]chromen-6-one"
+CID:5359596,0,7440-38-2,5359596,Arsenic,arsenic
+CID:5359810,0,2783-94-0,5359810,FD&C Yellow No.6,disodium;(5Z)-6-oxo-5-[(4-sulfonatophenyl)hydrazinylidene]naphthalene-2-sulfonate
+CID:5360515,0,16590-41-3,5360515,Naltrexone,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7-one"
+CID:5366415,0,137-42-8,5366415,Metham sodium,sodium;N-methylcarbamodithioate
+CID:5377791,0,470-90-6,5377791,Chlorfenvinphos,"[(E)-2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate"
+CID:5381226,0,13292-46-1,5381226,Rifampin,"(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,26E)-2,15,17,29-Tetrahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-{[(4-methyl-1-piperazinyl)amino]methylene}-6,23,27-trioxo-8,30-dioxa-24-azatetracyclotriaconta-1(28),2,4,9,19,21,25(29)-heptaen-13-yl acetate"
+CID:544,0,15502-74-6,544,Arsenite,trioxidoarsane
+CID:54454,0,79902-63-9,54454,Simvastatin,"[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate"
+CID:5455,0,137-26-8,5455,Thiram,"dimethylcarbamothioylsulfanyl N,N-dimethylcarbamodithioate"
+CID:5462310,0,7440-44-0,5462310,Carbon,carbon
+CID:5462311,0,7440-42-8,5462311,Boron,boron
+CID:54670067,0,50-81-7,54670067,Ascorbic acid,"(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one"
+CID:54675777,0,57-62-5,54675777,Chlortetracycline,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide"
+CID:54675779,0,79-57-2,54675779,Oxytetracycline,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide"
+CID:55245,0,84371-65-3,55245,Mifepristone,"(8S,11R,13S,14S,17S)-11-[4-(dimethylamino)phenyl]-17-hydroxy-13-methyl-17-prop-1-ynyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one"
+CID:5564,0,3380-34-5,5564,"5-Chloro-2-(2,4-dichlorophenoxy)phenol","5-chloro-2-(2,4-dichlorophenoxy)phenol"
+CID:5569,0,1582-09-8,5569,Trifluralin,"2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)aniline"
+CID:5727,0,7646-85-7,5727,Zinc chloride,dichlorozinc
+CID:57363,0,98319-26-7,57363,Finasteride,"(1S,3aS,3bS,5aR,9aR,9bS,11aS)-N-tert-butyl-9a,11a-dimethyl-7-oxo-1,2,3,3a,3b,4,5,5a,6,9b,10,11-dodecahydroindeno[5,4-f]quinoline-1-carboxamide"
+CID:5743,0,50-02-2,5743,Dexamethasone,"(8S,9R,10S,11S,13S,14S,16R,17R)-9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one"
+CID:5770,0,50-55-5,5770,Reserpine,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
+CID:5803,0,51-24-1,5803,"3,3',5-Triiodothyroacetic acid","2-[4-(4-hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid"
+CID:58167,0,8001-35-2,58167,Toxaphene,"2,3,5,5-tetrachloro-4,7-bis(chloromethyl)-7-(dichloromethyl)bicyclo[2.2.1]heptane"
+CID:5821911,0,153719-23-4,5821911,Thiamethoxam,"(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide"
+CID:5833,0,52-01-7,5833,Spironolactone,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate"
+CID:5853,0,52-68-6,5853,Trichlorfon,"2,2,2-trichloro-1-dimethoxyphosphorylethanol"
+CID:5889,0,53-70-3,5889,"Dibenz(a,h)anthracene","naphtho[1,2-b]phenanthrene"
+CID:590836,0,28553-12-0,590836,Diisononyl phthalate,"bis(7-methyloctyl) benzene-1,2-dicarboxylate"
+CID:591200,0,41451-28-9,591200,Di-(5-methylhexyl) phthalate,"bis(5-methylhexyl) benzene-1,2-dicarboxylate"
+CID:5941340,0,145-50-6,5941340,Alpha-Naphtholbenzein,(4Z)-4-[(4-hydroxynaphthalen-1-yl)-phenylmethylidene]naphthalen-1-one
+CID:5943,0,56-23-5,5943,Carbon tetrachloride,tetrachloromethane
+CID:5954,0,56-55-3,5954,Benz(a)anthracene,benzo[a]anthracene
+CID:59693,0,102676-47-1,59693,Fadrozole,"4-(5,6,7,8-tetrahydroimidazo[1,5-a]pyridin-5-yl)benzonitrile"
+CID:5991,0,57-63-6,5991,Ethinyl estradiol,"(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol"
+CID:5993,0,57-74-9,5993,Chlordane,"1,3,4,7,8,9,10,10-Octachlorotricyclodec-8-ene"
+CID:5995,0,57-85-2,5995,Testosterone propionate,"[(8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] propanoate"
+CID:6001,0,57-97-6,6001,"7,12-Dimethylbenz(a)anthracene","7,12-dimethylbenzo[a]anthracene"
+CID:6010,0,58-18-4,6010,Methyltestosterone,"(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"
+CID:601234,0,43141-69-1,601234,3-(Dibutylamino)phenol,3-(dibutylamino)phenol
+CID:608116,0,263717-53-6,608116,Bisphenol E,4-[1-(4-hydroxyphenyl)ethyl]phenol
+CID:6095481,0,263717-53-9,6095481,"1,3,5-Tris(4-hydroxyphenyl)-4-propyl-1H-pyrazole","4-[2,3-bis(4-hydroxyphenyl)-4-propyl-1H-pyrazol-5-ylidene]cyclohexa-2,5-dien-1-one"
+CID:6115,0,62-53-3,6115,Aniline,aniline
+CID:61247,0,994-05-8,61247,tert-Amyl methyl ether,2-methoxy-2-methylbutane
+CID:6129,0,63-25-2,6129,Carbaryl,naphthalen-1-yl N-methylcarbamate
+CID:61640,0,13520-83-7,61640,Uranyl nitrate hexahydrate,dioxouranium;nitric acid;hexahydrate
+CID:6167,0,64-86-8,6167,Colchicine,"N-[(7S)-1,2,3,10-tetramethoxy-9-oxo-6,7-dihydro-5H-benzo[a]heptalen-7-yl]acetamide"
+CID:6197,0,66-81-9,6197,Cycloheximide,"4-[(2R)-2-[(1S,3S,5S)-3,5-dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]piperidine-2,6-dione"
+CID:6212,0,67-66-3,6212,Chloroform,chloroform
+CID:623849,0,1571-75-1,623849,Bisphenol AP,4-[1-(4-hydroxyphenyl)-1-phenylethyl]phenol
+CID:6279,0,71-58-9,6279,Medroxy progesterone 17-acetate,"[(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate"
+CID:6293,0,72-48-0,6293,Alizarin,"1,2-dihydroxyanthracene-9,10-dione"
+CID:6294,0,72-54-8,6294,DDD,"1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene"
+CID:63090,0,57465-28-8,63090,"3,4,5,3',4'-Pentachlorobiphenyl","1,2,3-trichloro-5-(3,4-dichlorophenyl)benzene"
+CID:63103,0,53469-21-9,63103,Aroclor 1242,"1,2-dichloro-3-(2,4-dichlorophenyl)benzene"
+CID:63107,0,32598-12-2,63107,"2,4,4',6-Tetrachlorobiphenyl","1,3,5-trichloro-2-(4-chlorophenyl)benzene"
+CID:6319,0,74-31-7,6319,"N,N'-Diphenyl-4-phenylenediamine","1-N,4-N-diphenylbenzene-1,4-diamine"
+CID:6323,0,74-83-9,6323,Methyl bromide,bromomethane
+CID:6327054,0,13121-70-5,6327054,Cyhexatin,tricyclohexyltin;hydrate
+CID:6327815,0,813-19-4,6327815,Tributyltin,tributyltin
+CID:6336,0,88671-89-0,6336,Myclobutanil,"2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile"
+CID:6344,0,75-09-2,6344,Dichloro methane,dichloromethane
+CID:6348,0,75-15-0,6348,Carbondisulfide,methanedithione
+CID:6354,0,75-21-8,6354,Ethylene oxide,oxirane
+CID:6358,0,75-26-3,6358,2-Bromopropane,2-bromopropane
+CID:6359,0,75-27-4,6359,Bromodichloromethane,bromo(dichloro)methane
+CID:637511,0,104-55-2,637511,Cinnamal,(E)-3-phenylprop-2-enal
+CID:6421,0,76-03-9,6421,Trichloroacetic acid,"2,2,2-trichloroacetic acid"
+CID:6433227,0,959-98-8,6433227,Alpha-Endosulfan,"(1R,2S,8R)-1,9,10,11,12,12-Hexachloro-4,6-dioxa-5-thiatricyclododec-10-ene 5-oxide"
+CID:6437352,0,71030-11-0,6437352,beta-Zearalenol,"(2E,7S,11S)-7,15,17-trihydroxy-11-methyl-12-oxabicyclo[12.4.0]octadeca-1(18),2,14,16-tetraen-13-one"
+CID:6437380,0,82186-77-4,6437380,Benflumetol,"2-(dibutylamino)-1-[(9Z)-2,7-dichloro-9-[(4-chlorophenyl)methylidene]fluoren-4-yl]ethanol"
+CID:6440557,0,76703-65-6,6440557,"lambda-Cyhalothrin, (-)-","[(R)-cyano-(3-phenoxyphenyl)methyl] (1S,3S)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+CID:644209,0,14521-96-1,644209,Etorphine,"(5α,6β,14β,18R)-18-[(2R)-2-Hydroxy-2-pentanyl]-6-methoxy-17-methyl-7,8-didehydro-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol"
+CID:6442842,0,439680-76-9,6442842,Bifenthrin,"(2-methyl-3-phenylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+CID:6505,0,77-90-7,6505,Acetyl tributyl citrate,"tributyl 2-acetyloxypropane-1,2,3-tricarboxylate"
+CID:6507,0,77-94-1,6507,Tributyl citrate,"tributyl 2-hydroxypropane-1,2,3-tricarboxylate"
+CID:6529,0,78-32-0,6529,Tri-p-cresyl phosphate,tris(4-methylphenyl) phosphate
+CID:6540,0,78-51-3,6540,Tri(2-butoxyethyl) phosphate,tris(2-butoxyethyl) phosphate
+CID:6557,0,78-79-5,6557,Isoprene,"2-methylbuta-1,3-diene"
+CID:656687,0,29426-78-6,656687,Dibromobisphenol A,2-bromo-4-[2-(3-bromo-4-hydroxyphenyl)propan-2-yl]phenol
+CID:656692,0,142648-65-5,656692,"2,2-Bis(4-hydroxyphenyl)-1-propanol",4-[1-hydroxy-2-(4-hydroxyphenyl)propan-2-yl]phenol
+CID:657298,0,51-52-5,657298,Propyl thiouracil,6-propyl-2-sulfanylidene-1H-pyrimidin-4-one
+CID:6575,0,79-01-6,6575,Trichloroethylene,"1,1,2-trichloroethene"
+CID:6579,0,79-06-1,6579,Acrylamide,prop-2-enamide
+CID:6597,0,79-43-6,6597,Dichloroacetic acid,"2,2-dichloroacetic acid"
+CID:66030,0,104-43-8,66030,4-Dodecylphenol,4-dodecylphenol
+CID:66166,0,77-40-7,66166,Bisphenol B,4-[2-(4-hydroxyphenyl)butan-2-yl]phenol
+CID:6618,0,79-94-7,6618,Tetrabromobisphenol A,"2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol"
+CID:6619,0,79-95-8,6619,"2,2',6,6'-Tetrachlorobisphenol A","2,6-dichloro-4-[2-(3,5-dichloro-4-hydroxyphenyl)propan-2-yl]phenol"
+CID:6623,0,80-05-7,6623,Bisphenol A,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol
+CID:6626,0,80-09-1,6626,Bis(4-hydroxyphenyl) sulfone,4-(4-hydroxyphenyl)sulfonylphenol
+CID:6643,0,80-46-6,6643,p-tert-Amyl phenol,4-(2-methylbutan-2-yl)phenol
+CID:66495,0,81-92-5,66495,Egmol,4-[[2-(hydroxymethyl)phenyl]-(4-hydroxyphenyl)methyl]phenol
+CID:6658,0,80-62-6,6658,Methyl methacrylate,methyl 2-methylprop-2-enoate
+CID:66603,0,87-87-6,66603,"2,3,5,6-Tetrachlorohydroquinone","2,3,5,6-tetrachlorobenzene-1,4-diol"
+CID:667484,0,33125-97-2,667484,Etomidate,ethyl 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate
+CID:6697,0,82-05-3,6697,Benzanthrone,benzo[a]phenalen-7-one
+CID:67114,0,120-21-8,67114,4-(Diethylamino)benzaldehyde,4-(diethylamino)benzaldehyde
+CID:67296,0,84852-15-3,67296,2-Nonylphenol,2-nonylphenol
+CID:67545,0,307-55-1,67545,Perfluorododecanoic acid,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-tricosafluorododecanoic acid"
+CID:67733,0,355-43-1,67733,Perfluoro-1-iodo hexane,"1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-6-iodohexane"
+CID:67734,0,355-46-4,67734,Perfluorohexanesulfonic acid,"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid"
+CID:6776,0,84-60-6,6776,"2,6-Dihydroxy anthraquinone","2,6-dihydroxyanthracene-9,10-dione"
+CID:6777,0,84-61-7,6777,Dicyclohexyl phthalate,"dicyclohexyl benzene-1,2-dicarboxylate"
+CID:6781,0,84-66-2,6781,Diethyl phthalate,"diethyl benzene-1,2-dicarboxylate"
+CID:67815,0,375-73-5,67815,1-Perfluorobutanesulfonic acid,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid"
+CID:6782,0,84-69-5,6782,Diisobutyl phthalate,"bis(2-methylpropyl) benzene-1,2-dicarboxylate"
+CID:67821,0,375-95-1,67821,Perfluoro-n-nonanoic acid,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononanoic acid"
+CID:6786,0,84-75-3,6786,Dihexyl phthalate,"dihexyl benzene-1,2-dicarboxylate"
+CID:6787,0,84-76-4,6787,Dinonyl phthalate,"dinonyl benzene-1,2-dicarboxylate"
+CID:6815,0,85-60-9,6815,"4,4'-Butylidenebis(3-methyl-6-tert-butylphenol)",2-tert-butyl-4-[1-(5-tert-butyl-4-hydroxy-2-methylphenyl)butyl]-5-methylphenol
+CID:6819,0,85-70-1,6819,Butyl glycolyl butyl phthalate,"2-O-(2-butoxy-2-oxoethyl) 1-O-butyl benzene-1,2-dicarboxylate"
+CID:6850715,0,1330-20-7,6850715,Dimethyl benzene,"1,2-xylene;1,3-xylene;1,4-xylene"
+CID:6860,0,22967-92-6,6860,Methyl mercury,methylmercury(1+)
+CID:68617,0,79617-96-2,68617,Sertraline,"(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine"
+CID:6899,0,87-65-0,6899,"2,6-Dichlorophenol","2,6-dichlorophenol"
+CID:6914,0,88-06-2,6914,"2,4,6-Trichlorophenol","2,4,6-trichlorophenol"
+CID:69150,0,611-99-4,69150,"4,4'-Dihydoxy-benzophenone",bis(4-hydroxyphenyl)methanone
+CID:6930,0,88-29-9,6930,Versalide,"1-(3-ethyl-5,5,8,8-tetramethyl-6,7-dihydronaphthalen-2-yl)ethanone"
+CID:6950,0,88-85-7,6950,Dinoseb,"2-butan-2-yl-4,6-dinitrophenol"
+CID:69619,0,678-39-7,69619,"1H,1H,2H,2H-Perfluorodecanol","3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecan-1-ol"
+CID:6989,0,89-83-8,6989,5-Methyl-2-(1-methylethyl)phenol,5-methyl-2-propan-2-ylphenol
+CID:7017,0,90-43-7,7017,2-Phenylphenol,2-phenylphenol
+CID:702,0,64-17-5,702,Ethanol,ethanol
+CID:70355,0,947-19-3,70355,Hydroxy cyclohexyl phenyl ketone,(1-hydroxycyclohexyl)-phenylmethanone
+CID:707035,0,583-39-1,707035,2-Benzimidazolethiol,"1,3-dihydrobenzimidazole-2-thione"
+CID:7103,0,92-69-3,7103,4-Hydroxybiphenyl,4-phenylphenol
+CID:7112,0,92-88-6,7112,"4,4'-Dihydroxybiphenyl",4-(4-hydroxyphenyl)phenol
+CID:712,0,50-00-0,712,Methanal,formaldehyde
+CID:713,0,75-12-7,713,Formamide,formamide
+CID:71316600,0,183658-27-7,71316600,2-Ethylhexyltetrabromobenzoate,"2-ethylhexyl 2,3,4,5-tetrabromobenzoate"
+CID:71374219,0,602326-22-7,71374219,"2,3-Dibromo-4-(2,4-dibromophenoxy)phenol","2,3-dibromo-4-(2,4-dibromophenoxy)phenol"
+CID:71464055,0,91465-08-6,71464055,lambda-Cyhalothrin,"[(R)-cyano-(3-phenoxyphenyl)methyl] 3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+CID:7175,0,94-13-3,7175,Propyl paraben,propyl 4-hydroxybenzoate
+CID:7184,0,94-26-8,7184,Butyl paraben,butyl 4-hydroxybenzoate
+CID:7206,0,94-80-4,7206,"2,4-Dbutyl ester","butyl 2-(2,4-dichlorophenoxy)acetate"
+CID:72208326,0,71751-41-2,72208326,Abamectin,"(1'R,4'S,5S,6R,8'R,10'E,12'S,13'S,14'E,16'E,21'R,22'S,25'S)-6-[(2S)-2-Butanyl]-22',25'-dihydroxy-5,11',13',23'-tetramethyl-2'-oxo-5,6-dihydrospiro[pyran-2,6'-trioxatetracyclohexacosatetraen]-12'-yl 2,6-dideoxy-4-O-(2,6-dideoxy-3-O-methyl-α-L-arabino-hexopyranosyl)-3-O-methyl-α-L-arabino-hexopyranoside"
+CID:72279,0,6665-83-4,72279,6-Hydroxyflavone,6-hydroxy-2-phenylchromen-4-one
+CID:7239,0,95-50-1,7239,o-Dichloro benzene,"1,2-dichlorobenzene"
+CID:7270,0,12408-10-5,7270,Tetrachloro benzene,"1,2,4,5-tetrachlorobenzene"
+CID:7271,0,95-95-4,7271,"2,4,5-Trichlorophenol","2,4,5-trichlorophenol"
+CID:7280,0,96-12-8,7280,"1,2-Dibromo-3-chloro propane","1,2-dibromo-3-chloropropane"
+CID:7290,0,96-24-2,7290,alpha-Chlorohydrin,"3-chloropropane-1,2-diol"
+CID:73665,0,67747-09-5,73665,Prochloraz,"N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide"
+CID:7381,0,98-29-3,7381,p-tert-Butyl catechol,"4-tert-butylbenzene-1,2-diol"
+CID:73852,0,1470-79-7,73852,"2,4,4'-Trihydroxybenzophenone","(2,4-dihydroxyphenyl)-(4-hydroxyphenyl)methanone"
+CID:73864,0,1478-61-1,73864,Bisphenol AF,"4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenol"
+CID:7393,0,98-54-4,7393,p-tert-Butyl phenol,4-tert-butylphenol
+CID:7416,0,98-95-3,7416,Nitro benzene,nitrobenzene
+CID:74483,0,1763-23-1,74483,Perfluorooctanesulfonic acid,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid"
+CID:7453,0,99-71-8,7453,4-sec-Butylphenol,4-butan-2-ylphenol
+CID:7456,0,99-76-3,7456,Methyl paraben,methyl 4-hydroxybenzoate
+CID:7473,0,99-99-0,7473,4-Nitrotoluene,1-methyl-4-nitrobenzene
+CID:7489,0,100-21-0,7489,Terephthalic acid,terephthalic acid
+CID:7500,0,100-41-4,7500,Ethyl benzene,ethylbenzene
+CID:7501,0,100-42-5,7501,Styrene,styrene
+CID:7503,0,100-44-7,7503,Benzyl chloride,chloromethylbenzene
+CID:7547,0,101-20-2,7547,Triclocarban,"1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea"
+CID:7563,0,101-53-1,7563,p-Benzyl phenol,4-benzylphenol
+CID:7577,0,101-77-9,7577,"4,4'-Diaminodiphenylmethane",4-[(4-aminophenyl)methyl]aniline
+CID:7618,0,102-71-6,7618,Triethanolamine,2-[bis(2-hydroxyethyl)amino]ethanol
+CID:7628,0,10043-35-3,7628,Boric acid,boric acid
+CID:76302,0,2971-36-0,76302,Hydroxychlor,"4-[2,2,2-trichloro-1-(4-hydroxyphenyl)ethyl]phenol"
+CID:76348,0,3001-15-8,76348,"4,4'-Diiodobiphenyl",1-iodo-4-(4-iodophenyl)benzene
+CID:7641,0,103-23-1,7641,Di-(2-ethylhexyl) adipate,bis(2-ethylhexyl) hexanedioate
+CID:76739,0,3253-39-2,76739,"2,2-di(4-Methacryloxyphenyl) propane",[4-[2-[4-(2-methylprop-2-enoyloxy)phenyl]propan-2-yl]phenyl] 2-methylprop-2-enoate
+CID:76767,0,3278-89-5,76767,"1,3,5-Tribromo-2-(prop-2-en-1-yloxy) benzene","1,3,5-tribromo-2-prop-2-enoxybenzene"
+CID:77222,0,2058-94-8,77222,Perfluoro-n-undecanoic acid,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-henicosafluoroundecanoic acid"
+CID:7735,0,105-08-8,7735,"1,4-Cyclohexanedimethanol",[4-(hydroxymethyl)cyclohexyl]methanol
+CID:7814,0,106-50-3,7814,"1,4-Benzenediamine","benzene-1,4-diamine"
+CID:7833,0,106-87-6,7833,Vinyl cyclohexene dioxide,4-(oxiran-2-yl)-7-oxabicyclo[4.1.0]heptane
+CID:7835,0,106-89-8,7835,Epichlorohydrin,2-(chloromethyl)oxirane
+CID:7840,0,106-94-5,7840,1-Bromopropane,1-bromopropane
+CID:7858,0,107-18-6,7858,Allyl alcohol,prop-2-en-1-ol
+CID:7904,0,108-05-4,7904,Ethenyl acetate,ethenyl acetate
+CID:7955,0,108-78-1,7955,Melamine,"1,3,5-triazine-2,4,6-triamine"
+CID:79633,0,5495-84-1,79633,2-(Propan-2-yl)-9H-thioxanthen-9-one,2-propan-2-ylthioxanthen-9-one
+CID:79717,0,5613-46-7,79717,Tetramethylbisphenol A,"4-[2-(4-hydroxy-3,5-dimethylphenyl)propan-2-yl]-2,6-dimethylphenol"
+CID:8019,0,109-86-4,8019,Ethyleneglycol monomethyl ether,2-methoxyethanol
+CID:8028,1,109-99-9,8028,Tetrahydrofuran,oxolane
+CID:8035,1,110-13-4,8035,Acetonyl acetone,"hexane-2,5-dione"
+CID:8058,1,110-54-3,8058,Hexane,hexane
+CID:807,1,7553-56-2,807,Iodine,molecular iodine
+CID:8076,1,110-80-5,8076,Ethyleneglycol monoethyl ether,2-ethoxyethanol
+CID:8095,1,111-15-9,8095,2-Ethoxyethanolacetate,2-ethoxyethyl acetate
+CID:81259,1,6807-17-6,81259,"4,4'-(4-Methylpentane-2,2-diyl)diphenol",4-[2-(4-hydroxyphenyl)-4-methylpentan-2-yl]phenol
+CID:8133,1,111-76-2,8133,Butoxyethanol,2-butoxyethanol
+CID:8141,1,111-84-2,8141,Nonane,nonane
+CID:8252,1,115-07-1,8252,Propylene,prop-1-ene
+CID:8259,1,115-20-8,8259,"2,2,2-Trichloroethanol","2,2,2-trichloroethanol"
+CID:8268,1,115-32-2,8268,Dicofol,"2,2,2-trichloro-1,1-bis(4-chlorophenyl)ethanol"
+CID:8289,1,115-86-6,8289,Triphenyl phosphate,triphenyl phosphate
+CID:8295,1,115-96-8,8295,Tris(2-chloroethyl) phosphate,"4,5,6-trihydroxy-3-oxohexanoic acid"
+CID:8305,1,116-29-0,8305,Tetradifon,"1-[5-[[[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]oxymethyl]-3,4-dihydroxyoxolan-2-yl]pyridin-1-ium-3-carboxylic acid"
+CID:8343,1,117-81-7,8343,Bis(2-ethylhexyl) phthalate,"3-[[3-amino-5-[carbamimidoyl(methyl)amino]pentanoyl]amino]-6-(2,4-dioxopyrimidin-1-yl)-3,6-dihydro-2H-pyran-2-carboxylic acid"
+CID:83494,1,13464-24-9,83494,"4-methyl-2,4-bis(4-hydroxyphenyl)pent-1-ene","1,3,4-trihydroxy-5-oxocyclohexane-1-carboxylic acid"
+CID:8361,1,118-55-8,8361,Phenyl salicylate,2-amino-1-hydroxyoctadecan-3-one
+CID:8362,1,118-56-9,8362,Homosalate,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylic acid"
+CID:8363,1,118-58-1,8363,Benzyl salicylate,"2-(3,7,11,15,19,23,27,31-octamethyldotriaconta-2,6,10,14,18,22,26,30-octaenyl)naphthalene-1,4-dione"
+CID:8370,1,118-74-1,8370,Hexachlorobenzene,[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl] dihydrogen phosphate
+CID:8376,1,118-96-7,8376,Trinitrotoluene,"(3,5-dihydroxyoxolan-2-yl)methyl dihydrogen phosphate"
+CID:83975,1,7696-12-0,83975,Tetramethrin,5-(6-aminopurin-9-yl)-2-(hydroxymethyl)oxolan-3-ol
+CID:8434,1,120-47-8,8434,Ethyl paraben,4-amino-1-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+CID:8449,0,120-83-2,8449,"2,4-Dichlorophenol",2-amino-9-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purin-6-one
+CID:8461,0,121-14-2,8461,"2,4-Dinitrotoluene",9-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purin-6-one
+CID:84691,0,14283-03-5,84691,Cisplatin,azane;platinum(2+);dichloride
+CID:8561,0,131-18-0,8561,Diamyl phthalate,"dipentyl benzene-1,2-dicarboxylate"
+CID:8570,0,131-54-4,8570,Benzophenone-6,bis(2-hydroxy-4-methoxyphenyl)methanone
+CID:8571,0,131-55-5,8571,Benzophenone-2,"bis(2,4-dihydroxyphenyl)methanone"
+CID:8572,0,131-56-6,8572,Benzophenone-1,"(2,4-dihydroxyphenyl)-phenylmethanone"
+CID:8575,0,131-70-4,8575,Monobutyl phthalate,2-butoxycarbonylbenzoic acid
+CID:86102,0,107534-96-3,86102,Tebuconazole,"1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol"
+CID:86132,0,94361-06-5,86132,Cyproconazole,"2-(4-chlorophenyl)-3-cyclopropyl-1-(1,2,4-triazol-1-yl)butan-2-ol"
+CID:86138,0,114369-43-6,86138,Fenbuconazole,"4-(4-chlorophenyl)-2-phenyl-2-(1,2,4-triazol-1-ylmethyl)butanenitrile"
+CID:86208519,0,446254-48-4,86208519,"3,3',4,5'-Tetrabromodiphenyl ether","1,2-dibromo-4-(3,5-dibromophenoxy)benzene"
+CID:86393,1,130892-66-9,86393,"2,3',4',6-Tetrachlorodiphenyl ether","1,2-dichloro-4-(2,6-dichlorophenoxy)benzene"
+CID:86398,1,131341-86-1,86398,Fludioxonil,"4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile"
+CID:86418,1,138261-41-3,86418,Imidacloprid,"N-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide"
+CID:86429,1,142459-58-3,86429,Flufenacet,"N-(4-fluorophenyl)-N-propan-2-yl-2-[[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl]oxy]acetamide"
+CID:8722,1,137-30-4,8722,Ziram,"zinc;N,N-dimethylcarbamodithioate"
+CID:8814,1,140-66-9,8814,4-tert-Octylphenol,"4-(2,4,4-trimethylpentan-2-yl)phenol"
+CID:8844,1,141-28-6,8844,Diethyl adipate,diethyl hexanedioate
+CID:887,0,67-56-1,887,Methanol,methanol
+CID:89040,0,21757-82-4,89040,Penfenate,"[2,2,2-trichloro-1-(3,4-dichlorophenyl)ethyl] acetate"
+CID:89440,0,1506-02-1,89440,Tonalide,"1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone"
+CID:89594,0,54-11-5,89594,Nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine
+CID:90472028,0,308067-45-0,90472028,Humic acid,"3-nitrobicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid"
+CID:90479,0,24353-61-5,90479,Isocarbophos,propan-2-yl 2-[amino(methoxy)phosphinothioyl]oxybenzoate
+CID:90571,0,24650-42-8,90571,"2,2-Dimethoxy-2-phenylacetophenone","2,2-dimethoxy-1,2-diphenylethanone"
+CID:91469,0,531-95-3,91469,Equol,"(3S)-3-(4-hydroxyphenyl)-3,4-dihydro-2H-chromen-7-ol"
+CID:91497,0,1222-05-5,91497,Galaxolide,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene"
+CID:9153,0,205-99-2,9153,Benzo(b)fluoranthene,Benzo[e]acephenanthrylene
+CID:9158,0,207-08-9,9158,Benzo(k)fluoranthene,benzo[k]fluoranthene
+CID:9161,0,208-96-8,9161,Acenaphthylene,acenaphthylene
+CID:91632,0,39801-14-4,91632,Photomirex,"1,2,3,4,5,5,6,7,9,10,10-Undecachloropentacyclodecane"
+CID:91656,0,55179-31-2,91656,Bitertanol,"3,3-dimethyl-1-(4-phenylphenoxy)-1-(1,2,4-triazol-1-yl)butan-2-ol"
+CID:91662,0,56558-16-8,91662,"2,2',4,6,6'-Pentachlorobiphenyl","1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene"
+CID:91693,0,66246-88-6,91693,Penconazole,"1-[2-(2,4-dichlorophenyl)pentyl]-1,2,4-triazole"
+CID:91699,0,68694-11-1,91699,Triflumizol,N-[4-chloro-2-(trifluoromethyl)phenyl]-1-imidazol-1-yl-2-propoxyethanimine
+CID:92387,0,71868-10-5,92387,2-Methyl-4'-(methylthio)-2-morpholinopropiophenone,2-methyl-1-(4-methylsulfanylphenyl)-2-morpholin-4-ylpropan-1-one
+CID:9317,0,301-04-2,9317,Lead acetate,lead(2+);diacetate
+CID:9322,0,302-04-5,9322,Thiocyanate,thiocyanate
+CID:93547,0,130892-67-0,93547,"2,2',4,5,6'-Pentachlorodiphenyl ether","1,2,4-trichloro-5-(2,6-dichlorophenoxy)benzene"
+CID:943,0,14797-55-8,943,Nitrate,nitrate
+CID:948,0,10024-97-2,948,Nitrogen oxide,nitrous oxide
+CID:9502,0,330-55-2,9502,Linuron,"3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea"
+CID:95170,0,5436-43-1,95170,"2,2',4,4'-Tetrabromodiphenyl ether","2,4-dibromo-1-(2,4-dibromophenoxy)benzene"
+CID:9554,0,335-67-1,9554,Perfluorooctanoic acid,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid"
+CID:9555,0,335-76-2,9555,Perfluorodecanoic acid,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoic acid"
+CID:9568614,0,119141-88-7,9568614,Esomeprazole,"6-methoxy-2-[(S)-(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
+CID:9579578,0,119141-89-8,9579578,"Omeprazole, (R)-","6-methoxy-2-[(R)-(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
+CID:969491,0,60-57-1,969491,Dieldrin,"(1R,2S,3S,6R,7R,8S,9S,11R)-3,4,5,6,13,13-Hexachloro-10-oxapentacyclotridec-4-ene"
+CID:980,0,100-02-7,980,p-Nitrophenol,4-nitrophenol
+CID:9880,0,427-51-0,9880,Cyproterone acetate,"(1R,3aS,3bR,7aR,8aS,8bS,8cS,10aS)-1-Acetyl-5-chloro-8b,10a-dimethyl-7-oxo-1,2,3,3a,3b,7,7a,8,8a,8b,8c,9,10,10a-tetradecahydrocyclopenta[a]cyclopropa[g]phenanthren-1-yl acetate"
+CID:991,0,56-38-2,991,Parathion,diethoxy-(4-nitrophenoxy)-sulfanylidene-$l^{5}-phosphane
+CID:992,0,87-86-5,992,Pentachlorophenol,"2,3,4,5,6-pentachlorophenol"
+CID:9949848,0,977-79-7,9949848,Medrogestone,"(8R,9S,10R,13S,14S,17S)-17-acetyl-6,10,13,17-tetramethyl-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-3-one"
+CID:994958,1,977-79-58,994925786,TEA-Dodecylbenzenesulfonate,"(8acetyl-6,10,13,17-tetramethyl-2,8,9dro-1H-cyclopenta[a]phenanthren-3-one"
